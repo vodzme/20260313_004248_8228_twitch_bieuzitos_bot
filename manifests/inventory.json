@@ -1,0 +1,60 @@
+{
+    "created_at": "2026-03-13T00:48:36.418217Z",
+    "source_root": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source",
+    "source_dir": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080",
+    "variant": "1080",
+    "playlist": {
+        "master": "source/master.m3u8",
+        "index": "source/1080/index.m3u8"
+    },
+    "chat_path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/chat.jsonl",
+    "segments": [
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00000.ts",
+            "file": "seg_00000.ts",
+            "size_bytes": 12536028,
+            "duration_seconds": 15.999667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00001.ts",
+            "file": "seg_00001.ts",
+            "size_bytes": 10969048,
+            "duration_seconds": 14.016334
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00002.ts",
+            "file": "seg_00002.ts",
+            "size_bytes": 12536216,
+            "duration_seconds": 16.021667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00003.ts",
+            "file": "seg_00003.ts",
+            "size_bytes": 10969048,
+            "duration_seconds": 14.021667
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00004.ts",
+            "file": "seg_00004.ts",
+            "size_bytes": 12536216,
+            "duration_seconds": 16.027
+        },
+        {
+            "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/source/1080/seg_00005.ts",
+            "file": "seg_00005.ts",
+            "size_bytes": 176720,
+            "duration_seconds": 1.102667
+        }
+    ],
+    "chat": {
+        "path": "/var/www/html/storage/app/private/processing/20260313_004248_8228_twitch_bieuzitos_bot/chat.jsonl",
+        "file": "chat.jsonl",
+        "size_bytes": 194
+    },
+    "totals": {
+        "segments": 6,
+        "chat_files": 1,
+        "total_bytes": 59723470,
+        "total_duration_seconds": 77.189002
+    }
+}
